@@ -1,0 +1,20 @@
+{
+    "ashishjangid2011@gmail.com": {
+        "password": "ashish31",
+        "token": "",
+        "userDetails": {
+            "firstname": "Ashish",
+            "lastname": "Jangid",
+            "company": "Sapient Razorfish"
+        }
+    },
+    "ashishdarshanacademy@gmail.com": {
+        "password": "ashishjangid",
+        "token": "",
+        "userDetails": {
+            "firstname": "Ashish",
+            "lastname": "Sharma",
+            "company": "Sapient Nitro"
+        }
+    }
+}

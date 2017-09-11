@@ -1,0 +1,102 @@
+{
+    "events": [{
+        "events": [{
+                "title": "Accelerated Mobile Pages",
+                "time": "9:00 AM",
+                "added": true
+            }, {
+                "title": "Progressive Web Apps",
+                "time": "11:00 AM",
+                "added": false
+
+            }, {
+                "title": "Frameworks Fight",
+                "time": "2:00 PM",
+                "added": false
+
+            },
+            {
+                "title": "Accelerated Mobile Pages",
+                "time": "10:00 AM",
+                "added": false
+
+            }, {
+                "title": "Progressive Web Apps",
+                "time": "11:00 AM",
+                "added": false
+
+            }, {
+                "title": "Frameworks Fight",
+                "time": "5:00 PM",
+                "added": true
+
+            },
+            {
+                "title": "Accelerated Mobile Pages",
+                "time": "9:00 AM",
+                "added": true
+            }, {
+                "title": "Progressive Web Apps",
+                "time": "11:00 AM",
+                "added": false
+
+            }, {
+                "title": "Frameworks Fight",
+                "time": "2:00 PM",
+                "added": false
+
+            }
+        ]
+    }, {
+        "events": [{
+            "title": "Accelerated Mobile Pages",
+            "time": "10:00 AM",
+            "added": false
+
+        }, {
+            "title": "Progressive Web Apps",
+            "time": "11:00 AM",
+            "added": false
+
+        }, {
+            "title": "Frameworks Fight",
+            "time": "5:00 PM",
+            "added": true
+
+        }]
+    }, {
+        "events": [{
+                "title": "Accelerated Mobile Pages",
+                "time": "10:30 AM",
+                "added": false
+
+            }, {
+                "title": "Progressive Web Apps",
+                "time": "1:00 PM",
+                "added": true
+
+            }, {
+                "title": "Frameworks Fight",
+                "time": "3:00 PM",
+                "added": true
+
+            },
+            {
+                "title": "Accelerated Mobile Pages",
+                "time": "10:30 AM",
+                "added": false
+
+            }, {
+                "title": "Progressive Web Apps",
+                "time": "1:00 PM",
+                "added": true
+
+            }, {
+                "title": "Frameworks Fight",
+                "time": "3:00 PM",
+                "added": true
+
+            }
+        ]
+    }]
+}

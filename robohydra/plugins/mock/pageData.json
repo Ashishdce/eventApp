@@ -1,0 +1,61 @@
+{
+    "content": {
+        "header": {
+            "links": [{
+                "name": "Home",
+                "route": "/home"
+            }, {
+                "name": "Day 1",
+                "route": "/day/1"
+            }, {
+                "name": "Day 2",
+                "route": "/day/2"
+            }, {
+                "name": "Day 3",
+                "route": "/day/3"
+            }, {
+                "name": "My Schedule",
+                "route": "/myschedule"
+            }, {
+                "name": "My Pass",
+                "route": "/mypass"
+            }],
+            "profilePopup": [
+                "Profile",
+                "MySchedule",
+                "Help",
+                "Logout"
+            ]
+        },
+        "footer": {
+            "trademark": "EventsApp 2017",
+            "links": [{
+                    "name": "Event App",
+                    "links": [
+                        "Home",
+                        "About ",
+                        "Contribute",
+                        "Contact Me"
+                    ]
+                },
+                {
+                    "name": "Miscellanous",
+                    "links": [
+                        "Terms of Services",
+                        "Privacy Policy",
+                        "SiteMap",
+                        "Help"
+                    ]
+                },
+                {
+                    "name": "Follow Me",
+                    "links": [
+                        "Facebook",
+                        "Github",
+                        "LinkedIn"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -49,11 +49,6 @@ import {lodash} from '../common';
     components: {
         'navigation-component': NaivagationComponent
     },
-    methods: {
-        togglePopUp() {
-            this.show = !this.show;
-        }
-    },
     directives: {
         clickoutside: {
             bind (el, binding, vnode) {
